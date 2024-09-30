@@ -9,6 +9,10 @@ int div=a/b;
 printf("%d",sum);
 printf("%d",diff);
 printf("%d",div);
+int prod=a*b;
+printf("%d",sum);
+printf("%d",diff);
+printf("%d",prod);
 return 0;
 }
 
